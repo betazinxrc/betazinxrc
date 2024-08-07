@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boa vindas ao meu perfil 🖤
 
-<!--
-**betazinxrc/betazinxrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é olavo
 
-Here are some ideas to get you started:
+- estou estudando na [alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo 📫
+
+00001096694980sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/2g3sGKtJQloAAAAC/%D8%B4%D9%83%D8%B1%D9%8B%D8%A7-%D9%84%D9%83.gif)
